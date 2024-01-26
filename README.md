@@ -6,6 +6,6 @@ const myProfile = {
   Age: 32,
   gender: "female",
   studies: "📚 Frontend web development & Visual art",
-  hobbies: ["Technology", "Music", "Gymnastics", "Code", "Reading"]
+  hobbies: ["Technology", "Music", "Gymnastics", "Code", "Reading"],
+  languages: ["JavaScript", "ReactJS", "HTML", "CSS"]
 }  
-
